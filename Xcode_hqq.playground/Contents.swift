@@ -3,12 +3,7 @@
 import Foundation
 
 //: Single line comment /*:
-/*:
-/*:
-A multiple line comment
-A multiple line comment
-A multiple line comment
-*/
+
 
 /*:
 # Title level 1
@@ -38,4 +33,14 @@ The above line
 ----
 
 The bottom line
+*/
+
+/*:
+/*:
+/*:
+/*:
+/*:
+A multiple line comment
+A multiple line comment
+A multiple line comment
 */
